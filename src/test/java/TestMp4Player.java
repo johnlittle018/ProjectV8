@@ -7,5 +7,5 @@ public class TestMp4Player {
 //
 //        String a="sunflower.mp3";
 //        Assert.assertEquals("Playing mp3 file: " + fileName, a);
-        Assert.assertEquals(3, 3);
+        Assert.assertEquals(true, true);
 }
